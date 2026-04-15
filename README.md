@@ -19,6 +19,7 @@ Designed specifically with Pakistani clinics in mind, it handles various medical
 * **AI Integration:** Google Generative AI API (`google-generativeai`)
 * **GUI Framework:** CustomTkinter (`customtkinter`)
 * **Database:** SQLite3 (Built-in)
+* Developed by Hasnain Ali Islamabad, Pakistan
 
 ## 🚀 Installation & Setup
 
